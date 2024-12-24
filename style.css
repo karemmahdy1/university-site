@@ -1,0 +1,33 @@
+body {
+  background-color: #333;
+  color: #ddd;
+}
+
+table {
+  border: 1px solid #ddd;
+}
+
+thead {
+  background-color: #ddd;
+  color: #333;
+}
+
+th {
+  padding: 8px 10px;
+}
+
+td {
+  padding: 8px 10px;
+}
+
+.meals {
+  text-align: center;
+}
+
+video {
+  width: 200px;
+}
+
+audio {
+  width: 250px;
+}
